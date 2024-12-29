@@ -1,0 +1,101 @@
+id,nome,idade,cidade,salario
+1,Fernanda,43,Porto Alegre,3253.22
+2,Fernanda,48,São Paulo,8749.59
+3,Lucas,57,Rio de Janeiro,5154.74
+4,Carlos,60,São Paulo,4290.52
+5,Pedro,30,Curitiba,1578.31
+6,Lucas,19,Curitiba,6412.74
+7,Carlos,32,São Paulo,8228.23
+8,Lucas,47,Belo Horizonte,6237.31
+9,Lucas,45,Rio de Janeiro,1581.47
+10,Carlos,45,Rio de Janeiro,1844.75
+11,Fernanda,51,Belo Horizonte,1595.91
+12,Ana,19,Salvador,2691.77
+13,Maria,18,Belo Horizonte,2347.77
+14,Ana,47,Belo Horizonte,4026.14
+15,João,60,Curitiba,9549.93
+16,Lucas,57,Porto Alegre,2079.53
+17,Ana,45,São Paulo,1524.41
+18,Ana,55,São Paulo,1883.48
+19,Carlos,49,São Paulo,4404.61
+20,Paula,24,Belo Horizonte,3496.11
+21,Paula,27,São Paulo,3286.07
+22,João,52,Curitiba,3675.68
+23,Lucas,20,Porto Alegre,9250.38
+24,Lucas,56,São Paulo,4083.65
+25,Fernanda,41,São Paulo,2629.84
+26,Ana,51,São Paulo,2291.99
+27,Carlos,58,Belo Horizonte,9984.71
+28,Ana,23,Porto Alegre,8139.67
+29,Fernanda,32,Curitiba,7331.87
+30,Maria,54,Belo Horizonte,6822.87
+31,João,41,São Paulo,6812.13
+32,Paula,18,Belo Horizonte,6128.06
+33,Fernanda,26,Curitiba,3429.16
+34,Pedro,25,Salvador,5742.25
+35,Pedro,33,Salvador,9869.56
+36,Paula,25,Rio de Janeiro,4209.72
+37,Carlos,43,Curitiba,2818.36
+38,Maria,60,Salvador,2539.58
+39,Fernanda,22,Salvador,7004.79
+40,Carlos,48,Belo Horizonte,6248.03
+41,Ana,24,Salvador,5742.44
+42,Fernanda,39,São Paulo,9321.09
+43,Carlos,33,Porto Alegre,4893.69
+44,Paula,50,Rio de Janeiro,3277.13
+45,Paula,25,Salvador,8830.72
+46,João,38,Curitiba,1734.34
+47,Fernanda,49,Salvador,9557.9
+48,Pedro,54,Curitiba,7089.37
+49,Carlos,24,Belo Horizonte,2671.12
+50,Paula,58,Rio de Janeiro,3729.69
+51,Carlos,56,Curitiba,7476.95
+52,Maria,55,Belo Horizonte,3979.68
+53,Maria,33,Rio de Janeiro,9945.79
+54,Fernanda,52,Salvador,4331.28
+55,Maria,28,Rio de Janeiro,6992.24
+56,Maria,26,Rio de Janeiro,1776.89
+57,Ana,26,Rio de Janeiro,2021.62
+58,Pedro,41,Porto Alegre,4455.15
+59,Lucas,60,São Paulo,7199.37
+60,Ana,43,São Paulo,8993.51
+61,Fernanda,31,Porto Alegre,3643.92
+62,Lucas,46,Salvador,7883.17
+63,Fernanda,47,Rio de Janeiro,5828.86
+64,Fernanda,28,São Paulo,2812.98
+65,Fernanda,59,Curitiba,4165.11
+66,Ana,22,Curitiba,7769.83
+67,Pedro,33,Belo Horizonte,6634.2
+68,João,25,Belo Horizonte,3031.74
+69,Fernanda,42,Belo Horizonte,3420.32
+70,João,60,Rio de Janeiro,2896.37
+71,Maria,57,Salvador,7161.25
+72,Pedro,35,Belo Horizonte,8917.94
+73,Pedro,57,Porto Alegre,8056.15
+74,Carlos,50,Curitiba,3394.01
+75,Paula,51,Belo Horizonte,4056.92
+76,Fernanda,32,Salvador,6323.77
+77,João,18,Salvador,8942.52
+78,Fernanda,46,Belo Horizonte,9684.31
+79,Maria,28,Salvador,1814.39
+80,Pedro,21,Rio de Janeiro,3910.69
+81,Ana,35,Belo Horizonte,6532.17
+82,Paula,22,Salvador,2965.33
+83,Pedro,47,Rio de Janeiro,8131.92
+84,Carlos,34,Rio de Janeiro,9201.42
+85,Lucas,52,Curitiba,2856.21
+86,Lucas,45,Curitiba,7190.2
+87,Pedro,33,São Paulo,5995.08
+88,Ana,54,Curitiba,9102.25
+89,Lucas,52,Salvador,9144.31
+90,Pedro,46,Rio de Janeiro,6659.98
+91,Paula,18,Porto Alegre,5323.29
+92,Ana,26,Belo Horizonte,2515.28
+93,Paula,56,Porto Alegre,5090.03
+94,João,21,Porto Alegre,5596.6
+95,Fernanda,40,Salvador,4362.91
+96,Fernanda,29,Salvador,6633.72
+97,Pedro,45,São Paulo,8039.51
+98,Carlos,29,Belo Horizonte,8986.13
+99,Carlos,59,Porto Alegre,9911.58
+100,Maria,19,Porto Alegre,7886.71
