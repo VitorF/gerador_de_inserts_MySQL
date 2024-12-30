@@ -14,3 +14,8 @@ Este projeto é uma ferramenta desenvolvida em Python para gerar comandos `INSER
 - Caso opte por executar o script Python diretamente:
   - Python 3.x instalado.
   - Bibliotecas padrão do Python.
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
